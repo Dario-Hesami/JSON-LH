@@ -39,5 +39,16 @@
       ],
       "image": "strawberry-sprinkle.svg"
     }
+    {
+      "name": "XXXXXXX",
+      "calories": 350,
+      "type": "x1",
+      "ingredients": [
+        "item1,
+        "item2",
+        "item3"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
   ]
 }
